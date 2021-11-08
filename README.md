@@ -1,1 +1,1 @@
-# hnscc_multimodality_image_dicom_to_nii
+# HNSCC Multimodality_Image_Dicom_to_Nii 
